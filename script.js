@@ -20,7 +20,6 @@ nums3.push(9, 11, 13);
 
 console.log(nums);
 console.log(nums3);
-// console.log(nums_reordered);
 
 
 // 3) Capitalize 'the', insert a comma after 'teacher' and output "Yoda says, "The greatest teacher, failure is"
